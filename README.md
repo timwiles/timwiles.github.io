@@ -11,7 +11,7 @@ Last update: Wednesday 11 November 2020, 08:50 GMT - Added updates on the "House
 
 <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 
-# Latest sub-Project - A house for John
+# Latest Sub-Project - A house for John
 
 
 Dear supporters,
