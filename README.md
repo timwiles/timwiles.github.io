@@ -3,7 +3,7 @@
 Last update: Wednesday 11 November 2020, 08:50 GMT - Added updates on the "House for John" sub-project
 
 <noscript>
-<img src="IMG-20200617-WA0001.jpg" width="60%"/>
+<img src="house-for-john/IMG-20201012-WA0004.jpg" width="60%"/>
   <strong>Want to donate?</strong> See the <a href="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1">GoFundMe page</a>  
   
 </noscript>
@@ -57,9 +57,9 @@ Tim Wiles
 
 tcwiles@gmail.com 
 
-Resident of Swindon, UK
+Resident of Pewsey, UK
 
-Citizen, Social Campaigner, and Discussion Group Host
+Citizen and Social Campaigner
 
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/medium"></div>
 
