@@ -1,4 +1,3 @@
-# Latest Project - Helping those in extreme poverty in Peta
 
 Last update: Wednesday 11 November 2020, 08:50 GMT - Added updates on the "House for John" sub-project
 
@@ -11,6 +10,9 @@ Last update: Wednesday 11 November 2020, 08:50 GMT - Added updates on the "House
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/large"></div>
 
 <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+
+# Latest sub-Project - A house for John
+
 
 Dear supporters,
 
