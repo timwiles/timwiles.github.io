@@ -2,6 +2,9 @@
 
 **Last update - 2020-11-09**
 
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/small"></div>
+
+
 Below is a summary of the work carried out using the first 1750 GBP
 of the donation money.
 
@@ -18,7 +21,7 @@ John is single after his wife left him 10 years ago. He has 2 boys (aged 18 & 14
 and has 1 married girl aged 22 yrs.
 
 <figure>
-<img src="IMG-20201012-WA0005.jpg" width="80%" alt="John's original home">
+<img src="IMG-20201012-WA0004.jpg" width="80%" alt="John's original home">
 <figcaption>
 John outside his original home, together with his 0.7 acres of land. They use the land to grow crops for food.
 The house has no latrine of its own.
@@ -31,9 +34,7 @@ John, and to purchase a sewing machine to help him get started in business.
 ## Initial funds transfer - 2020-10-10
 
 The first 1000 GBP donated money was transferred by Knofacic staff to Uganda by bank transfer
-with UK government gift-aid added on.
-
-## Foundations begun - 2020-10-12
+with UK government gift-aid added on. Construction began on 12 October 2020.
 
 <figure>
 <img src="IMG-20201012-WA0026.jpg" width="50%" alt="Offloading bricks">
