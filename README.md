@@ -32,7 +32,7 @@ area.
 There were provisional plans to run a medical outreach in Peta, but these plans have been put on hold until the 
 lockdown restrictions in Uganda have been lifted to allow medical professionals to travel.
 
-## What happened to the original project?
+# What happened to the original project?
 
 You may recall that the project was initially titled "A house for Arthur before the rains come". The 
 beneficiary of this project was an elderly diabetes patient living in Peta. Following Arthur's 
@@ -43,7 +43,7 @@ This aid and development work could not come at a better time for this community
 lockdown in Uganda has led to many losing their jobs. In addition, the travel restrictions have
 caused equally many to be without access to medical care.
 
-## How to donate
+# How to donate
 
 To donate to the Peta project, visit the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
 
