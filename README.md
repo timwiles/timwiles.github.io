@@ -45,7 +45,7 @@ caused equally many to be without access to medical care.
 
 # How to donate
 
-To donate to the Peta project, visit the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
+To donate to the project, visit the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
 
 Or you can make a donation directly to Knofacic using the Knofacic website. Then
 contact me or them with your donation amount and name. 
