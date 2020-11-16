@@ -1,6 +1,6 @@
 # Sub-project 1 - A house for John
 
-**Last update - 2020-11-09**
+**Last update - 2020-11-16**
 
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/small"></div>
 
