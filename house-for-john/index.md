@@ -1,6 +1,6 @@
 # Sub-project 1 - A house for John
 
-**Last update - 2020-11-16 - Added [photos for house handover](house-handover---2020-11-15)**
+**Last update - 2020-11-16 - Added [photos for house handover](#house-handover---2020-11-15)**
 
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/small"></div>
 
