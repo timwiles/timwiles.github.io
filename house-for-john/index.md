@@ -146,14 +146,6 @@ Finishing touches being made to the window and door frames.
 
 
 <figure>
-<img src="IMG-20201115-WA0002.jpg" width="50%" alt="Finishing touches">
-<figcaption>
-Finishing touches being made to the window and door frames.
-</figcaption>
-</figure>
-
-
-<figure>
 <img src="IMG-20201115-WA0003.jpg" width="50%" alt="Exterior painting completed.">
 <figcaption>
 Exterior painting completed. The house is now ready for John to move in.
