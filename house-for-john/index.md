@@ -1,6 +1,6 @@
 # Sub-project 1 - A house for John
 
-**Last update - 2020-11-16**
+**Last update - 2020-11-16 - Added [photos for house handover](house-handover---2020-11-15)**
 
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/small"></div>
 
@@ -131,7 +131,7 @@ Work almost complete. Knofacic charity workers plan the next steps (John is in t
 
 
 
-## Second funding transfer - 2020-10-20
+## House Handover - 2020-11-15
 
 A second installment of funding (this time 750 GBP) was sent on 2020-10-20, as the structure of the house was 
 nearing completion.
