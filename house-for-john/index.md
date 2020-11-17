@@ -1,6 +1,6 @@
 # Sub-project 1 - A house for John
 
-**Last update - 2020-11-09**
+**Last update - 2020-11-16**
 
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/small"></div>
 
@@ -134,16 +134,51 @@ Work almost complete. Knofacic charity workers plan the next steps (John is in t
 ## Second funding transfer - 2020-10-20
 
 A second installment of funding (this time 750 GBP) was sent on 2020-10-20, as the structure of the house was 
-nearing completion. Painting has now commenced.  The next stage is to purchase bedding, etc.
+nearing completion.
 
-More photos coming soon.
+<figure>
+<img src="IMG-20201115-WA0002.jpg" width="50%" alt="Finishing touches">
+<figcaption>
+Finishing touches being made to the window and door frames.
+</figcaption>
+</figure>
 
-John will move into his new home as soon as it is safe and ready.
 
-## Can I still donate?
+<figure>
+<img src="IMG-20201115-WA0002.jpg" width="50%" alt="Finishing touches">
+<figcaption>
+Finishing touches being made to the window and door frames.
+</figcaption>
+</figure>
 
-Any additional money will be either be used for internal furnishings for John's house, or
-to purchase items for others affected by AIDS in John's community in Peta.
+
+<figure>
+<img src="IMG-20201115-WA0003.jpg" width="50%" alt="Exterior painting completed.">
+<figcaption>
+Exterior painting completed. The house is now ready for John to move in.
+</figcaption>
+</figure>
+
+
+
+<figure>
+<img src="IMG-20201115-WA0010.jpg" width="50%" alt="John outside his new house.">
+<figcaption>
+John outside his new house (next to the door). Also shown: some charity workers, our local contact, and members of John's community (15 November 2020).</figcaption>
+</figure>
+
+<figure>
+<img src="IMG-20201115-WA0008.jpg" width="50%" alt="John on his new bed.">
+<figcaption>
+John on his new bed.
+</figcaption>
+</figure>
+
+## Third funding transfer - (planned for 2020-11-27)
+
+John's new home is now complete. Our plan is now to buy a sewing machine for him (he is a skilled
+tailor) using the next round of funding. We have also identified another family in the village, and will begin 
+working with them soon as-and-when funding becomes available.
 
 To donate, visit the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1)  
 
