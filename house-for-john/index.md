@@ -3,6 +3,7 @@
 **Last update - 2020-11-16 - Added [photos for house handover](#house-handover---2020-11-15)**
 
 <div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/small"></div>
+<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 
 
 Below is a summary of the work carried out using the first 1750 GBP
