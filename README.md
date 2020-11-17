@@ -1,5 +1,5 @@
 
-Last update: Monday 16 November 2020, 17:54 GMT - Added updates on the near completion of the "House for John" sub-project
+Last update: Monday 16 November 2020, 17:54 GMT - Added updates on the near completion of the ["House for John"](house-for-john/index.md) sub-project
 
 <noscript>
 <img src="house-for-john/IMG-20201012-WA0004.jpg" width="60%"/>
