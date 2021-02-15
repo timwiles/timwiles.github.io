@@ -1,8 +1,8 @@
 
-Last update: Monday 16 November 2020, 17:54 GMT - Added updates on the near completion of the ["House for John"](house-for-john/index.md) sub-project
+Last update: Monday 15 February 2021, 19:54 GMT - Added the ["End Period Poverty"](end-period-poverty/index.md) sub-project
 
 <noscript>
-<img src="house-for-john/IMG-20201012-WA0004.jpg" width="60%"/>
+<img src="end-period-poverty.jpg" width="60%"/>
   <strong>Want to donate?</strong> See the <a href="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1">GoFundMe page</a>  
   
 </noscript>
