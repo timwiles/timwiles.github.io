@@ -11,26 +11,13 @@ Last update: Monday 15 February 2021, 19:54 GMT - Added the ["End Period Poverty
 
 <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 
-# Latest Sub-Project - A house for John
+# Latest Sub-Project - Ending period poverty in Eastern Uganda 
 
+In Eastern Uganda, many women and schoolgirls can go for months without access to sanitary products of any kind. Emergency supplies can be given in extreme circumstances, but this is not a long-term solution.
 
-Dear supporters,
+However, when given a little training and equipment, we are showing that women in Eastern Uganda are capable of educating their communities in reproductive health issues, and even manufacture their own sanitary products in a safe, sustainable manner.
 
-It's been a fantastic 2 months for the Peta project. Together with the international development charity
-Knofacic (based in Bristol, UK), and working closely with David (our contact in Peta) we are now nearing
-construction of a new house for a 56-year-old AIDS patient called John (not his real name). 
-
-John was previously
-living in a mud hut with no income. He is skilled in tailoring but did not have the funds to purchase a 
-sewing machine to start his business.
-
-[More information on the "House for John" sub-project](house-for-john/index.md).
-
-We hope to continue this work as and when more funds are collected, to give a helping hand to a second family in the
-area.
-
-There were provisional plans to run a medical outreach in Peta, but these plans have been put on hold until the 
-lockdown restrictions in Uganda have been lifted to allow medical professionals to travel.
+See the project page for more. 
 
 # What happened to the original project?
 
