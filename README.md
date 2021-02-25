@@ -18,7 +18,7 @@ In Eastern Uganda, many women and schoolgirls can go for months without access t
 When given the right training and equipment, we are showing that women in Eastern Uganda are capable of manufacturing their own sanitary products in a safe, sustainable manner.
 
 
-[**More on this sub-project**](end-period-poverty/index.md) 
+[**More on this sub-project**](End-period-poverty/index.md) 
 
 ## How to donate
 
@@ -28,7 +28,7 @@ To donate to the project, visit the [**new GoFundMe page**](https://www.gofundme
 
 **100%** of the funds donated (including gift-aid) are used to purchase equipment and materials for sanitary product production, and to employ local project workers in Uganda to deliver training. 
 
-A spending breakdown and photographs of the project delivery will be made available on the [End Period Poverty page](end-period-poverty/index.md) as funds are spent.  
+A spending breakdown and photographs of the project delivery will be made available on the [End Period Poverty page](End-period-poverty/index.md) as funds are spent.  
 
 ## Other ways to be involved 
 
