@@ -26,7 +26,7 @@ When given the right training and equipment, we are showing that women in Easter
 
 To donate to the project, visit the [**new GoFundMe page**](https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda/).
 
-**100%** of the funds donated (including gift-aid) are used to purchase equipment and materials for sanitary product production, and to employ local project workers in Uganda to deliver training. 
+**100%** of the funds raised will be used to employ local workers in the target communities to deliver training, and to purchase materials.
 
 A spending breakdown and photographs of the project delivery will be made available on the [End Period Poverty page](End-period-poverty/index.md) as funds are spent.  
 
