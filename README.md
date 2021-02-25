@@ -11,7 +11,7 @@ Last update: Thursday 25 February 2021, 21:54 GMT - Added the ["End Period Pover
 
 <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 
-# Latest Sub-Project - End period poverty in Eastern Uganda 
+# Latest sub-project - End period poverty in Eastern Uganda 
 
 In Eastern Uganda, many women and schoolgirls can go for months without access to sanitary products of any kind. Emergency supplies can be given in extreme circumstances, but this is not a long-term solution.
 
