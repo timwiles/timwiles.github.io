@@ -24,13 +24,17 @@ lockdown in Uganda has led to many losing their jobs.
 
 ## How to donate
 
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda/widget/small"></div>
+
 To donate to the project, visit the [**new GoFundMe page**]().
 
-**100
+**100%** of the funds donated (including gift-aid for UK donors) are sent to Uganda and used to employ local project workers and purchase equipment and raw materials. 
+
+A spending breakdown will be made available on the [End Period Poverty page](end-period-poverty/index.md).
 
 ## Other ways to be involved 
 
-Every time you pray for us or share the project page on social media you are making a huge difference. 
+Every time you pray for us or share this page on social media you are making a huge difference. 
 
 Whoever you are and wherever you're from and whatever you believe, may the Lord bless you and keep you,
 
