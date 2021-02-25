@@ -26,9 +26,9 @@ When given the right training and equipment, we are showing that women in Easter
 
 To donate to the project, visit the [**new GoFundMe page**]().
 
-**100%** of the funds donated (including gift-aid for UK donors) are sent to Uganda and used to employ local project workers and purchase equipment and raw materials. 
+**100%** of the funds donated (including gift-aid) are used to purchase equipment and materials for sanitary product production, and to employ local project workers in Uganda to deliver training. 
 
-A spending breakdown will be made available on the [End Period Poverty page](end-period-poverty/index.md).
+A spending breakdown and photographs of the project delivery will be made available on the [End Period Poverty page](end-period-poverty/index.md) as funds are spent.  
 
 ## Other ways to be involved 
 
