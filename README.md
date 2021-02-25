@@ -15,7 +15,7 @@ Last update: Thursday 25 February 2021, 21:54 GMT - Added the ["End Period Pover
 
 In Eastern Uganda, many women and schoolgirls can go for months without access to sanitary products of any kind. 
 
-However, when given a little training and equipment, we are showing that women in Eastern Uganda are capable of educating their communities in reproductive health issues, and even manufacturing their own sanitary products in a safe, sustainable manner.
+When given a little training and equipment, we are showing that women in Eastern Uganda are capable of educating their communities in reproductive health issues, and even manufacturing their own sanitary products in a safe, sustainable manner.
 
 This development work could not come at a better time for this area - The strict coronavirus
 lockdown in Uganda has led to many losing their jobs.
