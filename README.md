@@ -1,58 +1,40 @@
 
-Last update: Monday 16 November 2020, 17:54 GMT - Added updates on the near completion of the ["House for John"](house-for-john/index.md) sub-project
+Last update: Thursday 25 February 2021, 21:54 GMT - Added the ["End Period Poverty"](end-period-poverty/index.md) sub-project
 
 <noscript>
-<img src="house-for-john/IMG-20201012-WA0004.jpg" width="60%"/>
-  <strong>Want to donate?</strong> See the <a href="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1">GoFundMe page</a>  
+<img src="end-period-poverty/holding-banner.jpg" width="60%"/>
+  <strong>Want to donate?</strong> See the <a href="https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1">GoFundMe page</a>  
   
 </noscript>
 
-<div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/large"></div>
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda/widget/large"></div>
 
 <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 
-# Latest Sub-Project - A house for John
+# Latest sub-project - End period poverty in Eastern Uganda 
+
+In Eastern Uganda, many women and schoolgirls can go for months without access to sanitary products of any kind. 
+
+When given the right training and equipment, we are showing that women in Eastern Uganda are capable of manufacturing their own sanitary products in a safe, sustainable manner.
 
 
-Dear supporters,
+[**More on this sub-project**](End-period-poverty/index.md) 
 
-It's been a fantastic 2 months for the Peta project. Together with the international development charity
-Knofacic (based in Bristol, UK), and working closely with David (our contact in Peta) we are now nearing
-construction of a new house for a 56-year-old AIDS patient called John (not his real name). 
+## How to donate
 
-John was previously
-living in a mud hut with no income. He is skilled in tailoring but did not have the funds to purchase a 
-sewing machine to start his business.
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda/widget/small"></div>
 
-[More information on the "House for John" sub-project](house-for-john/index.md).
+To donate to the project, visit the [**new GoFundMe page**](https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda/).
 
-We hope to continue this work as and when more funds are collected, to give a helping hand to a second family in the
-area.
+**100%** of the funds raised will be used to employ local workers in the target communities to deliver training, and to purchase materials.
 
-There were provisional plans to run a medical outreach in Peta, but these plans have been put on hold until the 
-lockdown restrictions in Uganda have been lifted to allow medical professionals to travel.
+A spending breakdown and photographs of the project delivery will be made available on the [End Period Poverty page](End-period-poverty/index.md) as funds are spent.  
 
-# What happened to the original project?
+## Other ways to be involved 
 
-You may recall that the project was initially titled "A house for Arthur before the rains come". The 
-beneficiary of this project was an elderly diabetes patient living in Peta. Following Arthur's 
-death in mid-2020 (whilst funds were still being collected) the decision was made to repurpose the
-project to care for others in the community of Peta who were victims of poverty and disease.
+Please continue to pray for us and to share this page on social media. 
 
-This aid and development work could not come at a better time for this community - The strict coronavirus
-lockdown in Uganda has led to many losing their jobs. In addition, the travel restrictions have
-caused equally many to be without access to medical care.
-
-# How to donate
-
-To donate to the project, visit the [GoFundMe page](https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1).
-
-Alternatively, you can make a donation directly to Knofacic using the Knofacic website. Then
-contact me or them with your donation amount and name so I can pass this on to Knofacic.
-
-A huge thankyou to everyone who has been praying for us, contributed money, or has shared the project on social media thus far.
-
-Kind Regards, 
+Whoever you are and whatever you believe, may you have peace and joy in abundance. 
 
 Tim Wiles
 
@@ -62,5 +44,28 @@ Resident of Pewsey, UK
 
 Citizen and Social Campaigner
 
-<div class="gfm-embed" data-url="https://www.gofundme.com/f/a-house-for-arthur-before-the-rains-come/widget/medium"></div>
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda/widget/medium"></div>
+
+
+# Previous Sub-Projects
+
+## A house for John
+
+*September 2020 -- December 2020*
+
+David and I began our work together in April 2020. At the time, the harsh economic situation caused by the strict coronavirus lockdown in Uganda was causing many rural communities to lose hope for the future.
+
+Our plan was to raise funds in the UK and use them to employ local construction workers in Uganda to build a house for an elderly man called Arthur suffering from diabetes.
+
+Arthur died before we could begin construction, so (having informed the donors) we used the money to build a house for an HIV patient called John.
+
+All the money left over from the House for John sub-project has been carried over to the End Period Poverty sub-project. 
+
+[**More information on the "House for John" sub-project**](house-for-john/index.md)
+
+
+
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda/widget/large"></div>
+
+
 
