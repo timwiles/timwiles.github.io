@@ -13,13 +13,13 @@ My contacts in Uganda have identified 3 villages that could benefit from:
 
 The washable towels are ideally suited to rural areas as they rely less heavily on imports.
 
-The international development charity [Knofu](https://knowledge-facilitators.org) (formerly known as Knofacic) have started recruiting community members in each of the 3 schools to deliver the training.
+The international development charity Knofu (the Uganda branch of [Knowledge Facilitators International](https://knowledge-facilitators.org), formerly known as Knofacic) are implementing the project. They have started recruiting community members in each of the 3 schools to deliver the training.
 
 We believe that (by the grace of God) we will be able to directly impact the lives of 500 girls, and move towards ending period poverty in Uganda.
 
 # Fundraising 
 
-I've created a [new GoFundMe page]() for handling donations.
+I've created a [new GoFundMe page](https://gofundme.com/f/end-period-poverty-in-eastern-uganda) for handling donations.
 
 100% of the funds raised will be used to employ local Knofu workers in the target communities, and to purchase materials.
 
@@ -29,6 +29,13 @@ I'll post details and photos here as usual.
 
 # Pilot session
 
-Knofu employees ran a pilot training session in the school in Peta in January 2021. See the [Photo Gallery](Photo-Gallery.md). The session was a huge success, with male community members commenting "i will definitely help my family members when they come to me in need of pads in the future". 
+<figure><img src="IMG-20210206-WA0001.jpg" alt="The pilot session" width="590" style="max-width:100%;height:auto;">
+<figcaption>The pilot training session in Peta village</figcaption></figure>
 
-# How to donate 
+Knofu employees ran a pilot training session in the school in Peta in January 2021. The session was a huge success, with male community members commenting "i will definitely help my family members when they come to me in need of pads in the future". 
+
+The session was financed using leftover funds from the "House for John" sub-project.
+
+Please continue to pray for us and share this page on social media. 
+
+
