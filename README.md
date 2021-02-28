@@ -32,9 +32,9 @@ A spending breakdown and photographs of the project delivery will be made availa
 
 ## Other ways to be involved 
 
-Every time you *pray for us* or *share this page on social media* you are making a huge difference. 
+Please continue to pray for us and to share this page on social media. 
 
-Whoever you are and wherever you're from and whatever you believe, may the Lord bless you and keep you,
+Whoever you are and whatever you believe, may you have peace and joy in abundance. 
 
 Tim Wiles
 
@@ -63,6 +63,9 @@ All the money left over from the House for John sub-project has been carried ove
 
 [**More information on the "House for John" sub-project**](house-for-john/index.md)
 
+
+
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda/widget/large"></div>
 
 
 
