@@ -1,5 +1,5 @@
 
-Last update: Thursday 25 February 2021, 21:54 GMT - Added the ["End Period Poverty"](end-period-poverty/index.md) sub-project
+Last update: Monday 1 March 2021, 19:57 GMT - Updated the ["End Period Poverty"](end-period-poverty/index.md) sub-project
 
 <noscript>
 <img src="end-period-poverty/holding-banner.jpg" width="60%"/>
