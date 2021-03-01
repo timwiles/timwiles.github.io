@@ -21,7 +21,7 @@ We believe that (by the grace of God) we will be able to directly impact the liv
 I've created a [new GoFundMe page](https://gofundme.com/f/end-period-poverty-in-eastern-uganda) for handling donations.
 
 100% of the funds raised will be used to employ local charity workers, and to purchase materials.
-<footer>I absorb overheads (debit and credit card transaction fees) myself using a separate bank account. Please [email me](mailto:tcwiles@gmail.com) if you'd like to contribute to this fund.</footer>
+<footer>I absorb overheads (debit and credit card transaction fees) myself using a separate bank account. Please [email me](#contact) if you'd like to contribute to this fund.</footer>
 
 I'll post details and photos here as usual. 
 
@@ -36,6 +36,19 @@ The session was a huge success, with male community members commenting "i will d
 
 Please continue to pray for us and share this page on social media. 
 
+## Contact
+
+Please email me write to me with any questions relating to the project. 
+
+Tim Wiles <br>
+7 Walnut Close <br>
+Pewsey <br>
+England, UK<br>
+SN95 5QS
+
+Tcwiles@gmail.com<br>
++447791 355 394
 
 
+If you have any questions about the work of Knowledge Facilitators International, see their Contact page. 
 
