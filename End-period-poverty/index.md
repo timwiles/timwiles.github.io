@@ -21,7 +21,7 @@ We believe that (by the grace of God) we will be able to directly impact the liv
 I've created a [new GoFundMe page](https://gofundme.com/f/end-period-poverty-in-eastern-uganda) for handling donations.
 
 100% of the funds raised will be used to employ local charity workers, and to purchase materials.
-<footer>I absorb overheads (debit and credit card transaction fees) myself using a separate bank account. Please [email me](#contact) if you'd like to contribute to this fund.</footer>
+<footer>I absorb overheads (debit and credit card transaction fees) myself using a separate bank account. Please <a href="#contact">email me</a> if you'd like to contribute to this fund.</footer>
 
 I'll post details and photos here as usual. 
 
