@@ -1,13 +1,14 @@
-# Project outline 
+# Ending Period Poverty in Eastern Uganda 
+
+## Project outline 
 
 In Eastern Uganda, many women and schoolgirls use disposable sanitary products. However, many experience months where they cannot afford such products at all. This leaves them in sensitive "period poverty" situations which are difficult to communicate to friends, family, and colleagues. 
 
-My contacts in Uganda have identified 3 villages that could benefit from:
+My contacts in the area have identified 3 villages that could benefit from:
 
 1. Training and equipment necessary for manufacturing *washable* sanitary towels.
 
 2. A school-based reproductive health training scheme
-
 
 The washable towels are ideally suited to rural areas as they rely less heavily on imports.
 
@@ -15,17 +16,16 @@ The international development charity Knofu (the Uganda branch of [Knowledge Fac
 
 We believe that (by the grace of God) we will be able to directly impact the lives of 500 girls, and move towards ending period poverty in Uganda.
 
-# Fundraising 
+## Fundraising 
 
 I've created a [new GoFundMe page](https://gofundme.com/f/end-period-poverty-in-eastern-uganda) for handling donations.
 
 100% of the funds raised will be used to employ local charity workers, and to purchase materials.
-
 <footer>I absorb overheads (debit and credit card transaction fees) myself using a separate bank account. Please [email me](mailto:tcwiles@gmail.com) if you'd like to contribute to this fund.</footer>
 
 I'll post details and photos here as usual. 
 
-# Pilot session
+## Pilot session
 
 <figure><img src="IMG-20210206-WA0001.jpg" alt="The pilot session" width="590" style="max-width:100%;height:auto;">
 <figcaption>The pilot training session in Peta village</figcaption></figure>
