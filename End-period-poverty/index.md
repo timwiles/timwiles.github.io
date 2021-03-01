@@ -50,5 +50,4 @@ Tcwiles@gmail.com<br>
 +447791 355 394
 
 
-If you have any questions about the work of Knowledge Facilitators International, see their Contact page. 
-
+If you have any questions about the work of Knowledge Facilitators International, please use the contact details on [their website](https://knowledgefacilitators.org).
