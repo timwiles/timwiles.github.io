@@ -51,3 +51,5 @@ Tcwiles@gmail.com<br>
 
 
 If you have any questions about the work of Knowledge Facilitators International, please use the contact details on [their website](https://knowledgefacilitators.org).
+
+[&lt; Back to the home page](../README.md)
