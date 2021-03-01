@@ -11,7 +11,7 @@ My contacts in Uganda have identified 3 villages that could benefit from:
 
 The washable towels are ideally suited to rural areas as they rely less heavily on imports.
 
-The international development charity Knofu (the Uganda branch of [Knowledge Facilitators International](https://knowledge-facilitators.org), formerly known as Knofacic) will be implementing the project for me. They have started recruiting community members in each of the 3 schools to lead the project.
+The international development charity Knofu (the Uganda branch of [Knowledge Facilitators International](https://knowledgefacilitators.org), formerly known as Knofacic) will be implementing the project for me. They have started recruiting community members in each of the 3 schools to lead the project.
 
 We believe that (by the grace of God) we will be able to directly impact the lives of 500 girls, and move towards ending period poverty in Uganda.
 
