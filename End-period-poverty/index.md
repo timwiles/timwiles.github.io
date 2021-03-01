@@ -1,3 +1,15 @@
+
+<noscript>
+<img src="holding-banner.jpg" width="60%"/>
+  <strong>Want to donate?</strong> See the <a href="https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda?utm_source=customer&utm_medium=copy_link&utm_campaign=p_cf+share-flow-1">GoFundMe page</a>  
+  
+</noscript>
+
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda/widget/large"></div>
+
+<script defer src="https://www.gofundme.com/static/js/embed.js"></script>
+
+
 # Ending Period Poverty in Eastern Uganda 
 
 ## Project outline 
@@ -17,6 +29,8 @@ The international development charity Knofu (the Uganda branch of [Knowledge Fac
 We believe that (by the grace of God) we will be able to directly impact the lives of 500 girls, and move towards ending period poverty in Uganda.
 
 ## Fundraising 
+
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda/widget/small"></div>
 
 I've created a [new GoFundMe page](https://gofundme.com/f/end-period-poverty-in-eastern-uganda) for handling donations.
 
@@ -53,3 +67,6 @@ Tcwiles@gmail.com<br>
 If you have any questions about the work of Knowledge Facilitators International, please use the contact details on [their website](https://knowledgefacilitators.org).
 
 [&lt; Back to the home page](../README.md)
+
+
+<div class="gfm-embed" data-url="https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda/widget/medium"></div>
