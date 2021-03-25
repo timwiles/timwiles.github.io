@@ -44,8 +44,6 @@ Resident of Pewsey, UK
 
 Citizen and Social Campaigner
 
-<div class="gfm-embed" data-url="https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda/widget/medium"></div>
-
 
 # Previous Sub-Projects
 
@@ -65,7 +63,6 @@ All the money left over from the House for John sub-project has been carried ove
 
 
 
-<div class="gfm-embed" data-url="https://www.gofundme.com/f/end-period-poverty-in-eastern-uganda/widget/large"></div>
 
 
 
