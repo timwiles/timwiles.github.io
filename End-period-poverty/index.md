@@ -1,4 +1,4 @@
-*Updated 08:00 22 Mar 2021 - Added spending ledger link
+*Updated 08:00 22 Mar 2021 - Added spending ledger link*
 
 <noscript>
 <img src="holding-banner.jpg" width="60%"/>
@@ -35,8 +35,7 @@ We believe that (by the grace of God) we will be able to directly impact the liv
 
 I've created a [new GoFundMe page](https://gofundme.com/f/end-period-poverty-in-eastern-uganda) for handling donations.
 
-100% of the funds raised will be used to employ local charity workers, and to purchase materials.
-<footer>I absorb overheads (debit and credit card transaction fees) myself using a separate bank account. Please <a href="#contact">email me</a> if you'd like to contribute to this fund.</footer>
+100% of the funds raised will be used to employ local charity workers, and to purchase materials.<br/><small>I absorb overheads (debit and credit card transaction fees) myself using a separate bank account. Please <a href="#contact">email me</a> if you'd like to contribute to this fund.</small>
 
 Please see the [spending ledger](.. /spending-ledger.md) for a detailed breakdown of how
 funds are allocated. 
