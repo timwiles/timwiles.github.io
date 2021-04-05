@@ -44,6 +44,19 @@ I'll post details and photos here as usual.
 <figure><img src="IMG-20210206-WA0001.jpg" alt="The pilot session" width="590" style="max-width:100%;height:auto;">
 <figcaption>The pilot training session in Peta village</figcaption></figure>
 
+
+<figure><img src="IMG-20210206-WA0004.jpg" alt="The pilot session" width="590" style="max-width:100%;height:auto;">
+<figcaption></figcaption></figure>
+
+
+<figure><img src="IMG-20210206-WA0005.jpg" alt="Knofu workers" width="590" style="max-width:100%;height:auto;">
+<figcaption>Knofu charity workers.</figcaption></figure>
+
+
+<figure><img src="IMG-20210206-WA0006.jpg" alt="Raising awareness" width="590" style="max-width:100%;height:auto;">
+<figcaption>Girls who no longer need to stay silent on this important issue. </figcaption></figure>
+
+
 Knofu employees ran a pilot training session in the school in Peta in January 2021. This was financed using leftover funds from the "House for John" sub-project.
 
 The session was a huge success, with male community members commenting "i will definitely help my family members when they come to me in need of [sanitary products] in the future". 
