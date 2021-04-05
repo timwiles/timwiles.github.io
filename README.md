@@ -13,7 +13,7 @@ Last update: Monday 5 Apr 2021 - Added launch video
 
 # Latest sub-project - End period poverty in Eastern Uganda 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jJ3A-CLekvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" style="max-width:100%;height:auto;" src="https://www.youtube.com/embed/jJ3A-CLekvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 In Eastern Uganda, many women and schoolgirls can go for months without access to sanitary products of any kind. 
