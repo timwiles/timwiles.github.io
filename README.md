@@ -1,5 +1,5 @@
 
-Last update: Monday 1 March 2021, 19:57 GMT - Updated the ["End Period Poverty"](end-period-poverty/index.md) sub-project
+Last update: Monday 5 Apr 2021 - Added launch video 
 
 <noscript>
 <img src="end-period-poverty/holding-banner.jpg" width="60%"/>
@@ -12,6 +12,9 @@ Last update: Monday 1 March 2021, 19:57 GMT - Updated the ["End Period Poverty"]
 <script defer src="https://www.gofundme.com/static/js/embed.js"></script>
 
 # Latest sub-project - End period poverty in Eastern Uganda 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jJ3A-CLekvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 In Eastern Uganda, many women and schoolgirls can go for months without access to sanitary products of any kind. 
 
